@@ -71,8 +71,6 @@ The models are evaluated using the following metrics:
 - Libraries:  
   - `numpy`  
   - `tensorflow`  
-  - `pandas`  
-  - `nltk`  
 
 ---
 
