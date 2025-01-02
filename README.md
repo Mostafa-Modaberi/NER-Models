@@ -1,3 +1,9 @@
+**Mostafa Modaberi**
+
+Bachelor's Project in Computer Engineering, February 2025, Supervisor: Alireza Akhavanpour, Shahid Rajaei University
+
+---
+
 # Persian-NER-Models  
 
 This repository contains multiple **Named Entity Recognition (NER)** models for Persian text, built and trained using a rich dataset of formal Persian sentences. The models leverage advanced techniques like **BiLSTM**, **CNN**, and **Transformers** for entity recognition, utilizing **GloVe 300D embeddings** and optimized loss functions for high performance.
